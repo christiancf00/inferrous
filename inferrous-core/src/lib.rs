@@ -5,4 +5,5 @@ pub mod stats;
 
 ///Reexport functions
 pub use stats::mean::mean;
+pub use stats::median::median;
 
