@@ -13,7 +13,7 @@
 ///# Exampes
 ///
 ///```
-///use inferrous::mean;
+///use inferrous_core::mean;
 ///
 ///let data = [1.0, 2.0, 3.0];
 ///assert_eq!(mean(&data), Some(2.0));
